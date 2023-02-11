@@ -107,8 +107,8 @@ footer{
     gap: 2rem
     /* flex-wrap: wrap-reverse; */
 }
-footer {
-    font-size: .7rem;
+footer *{
+    font-size: .8rem;
     color: #fff;
     
 }
@@ -126,6 +126,7 @@ footer a {
         width: 100%;
     }
     footer{
+        padding: 2rem;
         flex-direction: column;
     }
 }
