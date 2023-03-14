@@ -1,6 +1,6 @@
 # Ejemplos Prácticos
 
-En este repositorio podrán encontrar todas las plantillas de los ejemplos prácticos de las materclasses correspondientes al módulo front end de Argentina Programa 4.0
+En este repositorio podrán encontrar todas las plantillas de los ejemplos prácticos de las materclasses correspondientes al módulo front end de Argentina Programa 4.0, en cada rama se encuentran los archivos correspondientes a cada tema.
 
 ## Uso
 
