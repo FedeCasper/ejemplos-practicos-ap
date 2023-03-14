@@ -17,13 +17,20 @@ De esta manera se clonará de forma local el repositorio remoto para poder utili
 ## Temas
 
 1 - Bootstrap | 
+
 2 - Box-model | 
-3 - Eventos | 
-4 - Flexbox | 
-5 - Formularios y Mapas | 
-6 - Funciones | 
-7 - Funciones de Orden Superior | 
-8 - CSS | 
+
+3 - Eventos |
+
+4 - Flexbox |
+
+5 - Formularios y Mapas |
+
+6 - Funciones |
+
+7 - Funciones de Orden Superior |
+
+8 - CSS<br>
 9 - Listas y Tablas | 
 10 - Bucles | 
 11 - Media Queries | 
