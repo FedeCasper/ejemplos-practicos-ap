@@ -16,28 +16,21 @@ De esta manera se clonará de forma local el repositorio remoto para poder utili
 
 ## Temas
 
-1 - Bootstrap | 
-
-2 - Box-model | 
-
-3 - Eventos |
-
-4 - Flexbox |
-
-5 - Formularios y Mapas |
-
-6 - Funciones |
-
-7 - Funciones de Orden Superior |
-
+1 - Bootstrap<br>
+2 - Box-model<br>
+3 - Eventos<br>
+4 - Flexbox<br>
+5 - Formularios y Mapas<br>
+6 - Funciones<br>
+7 - Funciones de Orden Superior<br>
 8 - CSS<br>
-9 - Listas y Tablas | 
-10 - Bucles | 
-11 - Media Queries | 
-12 - Objetos y Arrays | 
-13 - Position | 
-14 - Medidas Relativas | 
-15 - DOM | 
-16 - Asincronismo | 
-17 - VUE | 
-18 - Local Storage
+9 - Listas y Tablas<br>
+10 - Bucles<br>
+11 - Media Queries<br>
+12 - Objetos y Arrays<br>
+13 - Position<br>
+14 - Medidas Relativas<br>
+15 - DOM<br>
+16 - Asincronismo<br>
+17 - VUE<br>
+18 - Local Storage<br>
